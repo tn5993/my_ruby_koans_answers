@@ -1,1 +1,1 @@
-== All credits and licences at https://github.com/neo/ruby_koans.git 
+== All credits go to https://github.com/neo/ruby_koans.git 
